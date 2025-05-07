@@ -1,5 +1,12 @@
 # @mastra/core
 
+## 0.9.3-alpha.1
+
+### Patch Changes
+
+- 9cd1a46: [MASTRA-3338] update naming scheme for embedding index based on vector store rules and added duplicate index checks
+- 70dbf51: [MASTRA-2452] updated setBaggage for tracing
+
 ## 0.9.3-alpha.0
 
 ### Patch Changes

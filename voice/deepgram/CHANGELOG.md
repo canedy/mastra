@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.17-alpha.1
+
+### Patch Changes
+
+- Updated dependencies [9cd1a46]
+- Updated dependencies [70dbf51]
+  - @mastra/core@0.9.3-alpha.1
+
 ## 0.1.17-alpha.0
 
 ### Patch Changes
